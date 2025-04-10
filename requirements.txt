@@ -1,0 +1,5 @@
+pandas~=2.0.2
+requests~=2.31.0
+BeautifulSoup~=2.0.22
+random 
+time
